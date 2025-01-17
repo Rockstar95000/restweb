@@ -18,7 +18,7 @@ Updating the sample content.
 ### Step 4:
 Choose the appropriate style and color scheme.
 
-### Step 5:
+### Step 5: 
 Validate the layout in various browsers.
 
 ### Step 6:
